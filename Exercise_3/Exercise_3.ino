@@ -33,14 +33,12 @@ void loop() {
   val_reset = digitalRead(reset);
 
   if(/*ここに何が入るでしょうか?*/){
-    digitalWrite(LED_red,HIGH);
-    
     /*ここに何が入るでしょうか?*/
+    
   }
   
   if(/*ここに何が入るでしょうか?*/){
-    digitalWrite(LED_red,LOW);
-    
     /*ここに何が入るでしょうか?*/
+    
   }
 }

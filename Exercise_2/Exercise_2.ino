@@ -11,10 +11,12 @@ void setup() {
 void loop() {
   val = digitalRead(Button);
   
-  if(/*ここに何が入るでしょうか?*/){
+  if(val==HIGH){
     /*ここに何が入るでしょうか?*/
+    
   }
   else{
     /*ここに何が入るでしょうか?*/
+    
   }
 }

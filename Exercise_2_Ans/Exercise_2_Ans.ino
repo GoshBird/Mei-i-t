@@ -19,10 +19,8 @@ void loop() {
   //ifとelseは「もし〜なら」「そうでないなら」という意味です。Scratchにもありますね。
   if(val==HIGH){
     digitalWrite(LED,HIGH);
-    Serial.println("HIGH");
   }
   else{
     digitalWrite(LED,LOW);
-    Serial.println("LOW");
   }
 }
