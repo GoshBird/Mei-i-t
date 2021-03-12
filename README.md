@@ -4,11 +4,11 @@ Fast-press button work with Arduino
 
 ## Description
 
-This is Fast-press button work with Arduino. It used in a event at programing school in japan. So I made it for biginner even if didn't know arduino.
+This is Fast-press button work with Arduino. It used in a event at programing school in japan. I made it for beginner even if didn't know arduino.
 
 ## Features
 
-Made for bigginers.
+Made for beginner.
 Program has some worm infested part and users fill it. Of course it has Answer program.
 It is so easy that can study Arduino easily.
 
