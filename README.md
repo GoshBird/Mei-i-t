@@ -1,32 +1,30 @@
 # Mei-i-t
 
-Fast-press button work with Arduino
+Arduino用の早押しボタンプログラムです。教育目的で作成されたものになります。
 
 ## Description
 
-This is Fast-press button work with Arduino. It used in a event at programing school in japan. I made it for beginner even if didn't know arduino.
+Arduino用の早押しボタンプログラムです。プログラミング教室iTeen姪浜校にて教育イベント目的で作成されたものになります。初学者にもかんたんに理解しやすいように設計しています。
 
 ## Features
 
-Made for beginner.
-Program has some worm infested part and users fill it. Of course it has Answer program.
-It is so easy that can study Arduino easily.
+初心者用です。穴埋め形式でプログラムを埋め込む方式で、答え用のプログラムも同時に作成しておきました。
 
 ## Programs
 
-It have two type programs. "_Ans" is perfect program to run. Not is worm infested program.
+プログラムは２種類用意し、 "Ans" は完成プログラムの1例になります。これがついていないものは穴埋めになります。
 
-Exercise_1:Blink
+Exercise_1:Lチカ
 
-Exercise_2:Work by the linkage with Button
+Exercise_2:ボタンを押したら点く
 
-Exercise_3:Separate button for ON and OFF
+Exercise_3:ONとOFFのボタンを作成する
 
-Exercise_3_All:Fast-press button(non "_Ans"program)
+Exercise_3_All:早押しボタン(Ansは無印にボタンを増やしただけなのでなし)
 
-Exercise_test:wiring checker
+Exercise_test:配線チェック用
 
-arduino gameΧ.fzz:wiring diagram(work on flitzing)
+arduino gameΧ.fzz:配線表(flitzing用)
 
 ## Author
 
